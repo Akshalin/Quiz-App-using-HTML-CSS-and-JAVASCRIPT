@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+.about{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+.container{
+    margin-top: 40px;
+    background-color: antiquewhite;
+    width: 600px;
+    margin-left: 300px;
+    padding: 10px 40px 40px 30px;
+}
+.red, .green, .green1, .green2, .green3, .green4{
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: rgba(255, 0, 0, 0.753);
+    color: white;
+    border-color: rgba(255, 0, 0, 0.685);
+}
+.option,.option1,.option2,.option3,.option4,.option5,.option6,.option7,.option8,.option9,.option10,.option11,
+.option12,.option13,.option14,.option15,.option16,.option17,.option18,.option19{
+    padding: 10px 0px ;
+    width: 500px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    border-color: antiquewhite;
+}
